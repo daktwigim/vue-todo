@@ -1,29 +1,14 @@
-# vue-todo
+# 아티웰스 Vue 스터디 2주차 과제
 
-## Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+  git pull https://github.com/daktwigim/vue-todo.git
+  cd vue-todo && npm i
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 간단한 Todo App 만들기
 
-### Run your tests
-```
-npm run test
-```
+사용자로부터 값을 입력받아 Todo리스트를 생성, 관리하는 간단한 앱을 만들어봅시다.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 과제: 아이템 삭제 기능 추가하기
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+생성된 아이템을 삭제하는 기능을 추가해봅시다.
